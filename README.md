@@ -2,8 +2,7 @@
 Simple News Apps
 
  ## How to use?
- ### Get API 
- https://newsapi.org/
+<a href="[https://www.w3schools.com](https://newsapi.org/)">Get API</a>
 ### Install dependencies 
 `$ npm install` 
 ### Start the project
