@@ -9,6 +9,6 @@ Simple News Apps
 ### Start the project
 `$ npm run start`
 
-Course by wegodev
+
 
 
