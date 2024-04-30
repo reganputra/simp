@@ -6,10 +6,10 @@ Simple News Apps
  https://newsapi.org/
 
 # Install dependencies 
-`$ npm install`
+$ npm install
 
 # Start the project
-`$ npm run start`
+$ npm run start
 ```
 
 
