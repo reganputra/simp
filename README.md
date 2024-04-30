@@ -3,7 +3,7 @@ Simple News Apps
  ## Build Set Up
  ```bash
  # API
-<a href="https://newsapi.org/">Get API</a>
+ https://newsapi.org/
 
 # Install dependencies 
 `$ npm install`
