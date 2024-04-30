@@ -11,6 +11,7 @@ $ npm install
 # Start the project
 $ npm run start
 ```
+Create .env file and  all the contents in .env.example, and adjust your API key
 
 
 
