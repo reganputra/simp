@@ -4,7 +4,7 @@ Simple News Apps
  ```bash
  # API
  https://newsapi.org/
-Create .env file and copy all the contents at env.example to newly created .env, and adjust your API key
+Create .env file and copy all the contents at env.example to newly created .env, and adjust with your API key
 
 # Install dependencies 
 $ npm install
